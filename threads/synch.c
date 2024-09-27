@@ -10,7 +10,7 @@
    without written agreement is hereby granted, provided that the
    above copyright notice and the following two paragraphs appear
    in all copies of this software.
-
+asdasdasd
    IN NO EVENT SHALL THE UNIVasasdasdERSITY OF CALIFORNIA BE LIABLE TO
    ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR
    CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE
