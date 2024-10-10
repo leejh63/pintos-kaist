@@ -93,7 +93,8 @@ spt_find_page (struct supplemental_page_table *spt UNUSED, void *va UNUSED) {
 	/* TODO: Fill this function. */
 	printf("\n------- spt_find_page -------\n\n");
 	struct page *page = (struct page *)malloc(sizeof(struct page));
-	page->va = va;
+	page->va = pg_round_down(va);
+	// page->va = va;
 
 	struct hash_elem *e = hash_find(&spt->spt_hash, &page->elem);
 
